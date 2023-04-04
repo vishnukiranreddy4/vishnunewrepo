@@ -1,0 +1,9 @@
+<mvc:View controllerName="vishnuproject2.controller.demo1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Button text="Click"/>
+        </content>
+    </Page>
+</mvc:View>
